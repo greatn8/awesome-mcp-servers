@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-195-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-196-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -46,7 +46,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Filesystems and Documents](#filesystems-and-documents) (10)
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (14)
 - [Communication and Productivity](#communication-and-productivity) (18)
-- [AI, Agents, and Memory](#ai-agents-and-memory) (25)
+- [AI, Agents, and Memory](#ai-agents-and-memory) (26)
 - [Data, Analytics, and BI](#data-analytics-and-bi) (15)
 - [Legal and Court Data](#legal-and-court-data) (4)
 - [Security and Identity](#security-and-identity) (10)
@@ -332,6 +332,8 @@ LLM bridges, agent orchestration, RAG, and persistent memory layers.
   `knowledge-graph` `memory` `temporal`
 - **[Hugging Face MCP Server](https://github.com/huggingface/hf-mcp-server)** `Official` `TypeScript` — Access Hugging Face models, datasets, and Spaces from MCP clients.  
   `huggingface` `models` `ml`
+- **[HumanEndpoint](https://humanendpoint.au)** `Official` `TypeScript` — Quote-first human execution for AI agents: business and supplier calls, stock and availability checks, physical verification, manual research, and human QA.  
+  `human-in-the-loop` `agents` `real-world` `x402` `mcp`
 - **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** `Rust` — Developer-alpha encrypted knowledge store with MCP search and retrieval through scoped, expiring grants.  
   `memory` `knowledge` `encryption` `local`
 - **[LangGraph MCP Server](https://docs.langchain.com/langsmith/server-mcp)** `Official` `Other` — Expose deployed LangGraph agents as MCP tools through the Agent Server MCP endpoint.  

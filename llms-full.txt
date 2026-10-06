@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 195 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://landscape.mcphq.org/llms.txt. The same records are published as JSON at https://landscape.mcphq.org/api/servers.json.
+> Full Markdown catalog of 196 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://landscape.mcphq.org/llms.txt. The same records are published as JSON at https://landscape.mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -1290,6 +1290,18 @@ Access Hugging Face models, datasets, and Spaces from MCP clients.
 - Official: yes
 - Tags: huggingface, models, ml
 - Category: AI, Agents, and Memory
+
+### HumanEndpoint
+
+Quote-first human execution for AI agents: business and supplier calls, stock and availability checks, physical verification, manual research, and human QA.
+
+- URL: https://humanendpoint.au
+- Language: TypeScript
+- Provider: HumanEndpoint
+- Official: yes
+- Tags: human-in-the-loop, agents, real-world, x402, mcp
+- Category: AI, Agents, and Memory
+- Streamable HTTP endpoint: https://humanendpoint.au/mcp
 
 ### Hyperconsciousness
 

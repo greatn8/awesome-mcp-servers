@@ -2105,6 +2105,25 @@
     "official": false
   },
   {
+    "name": "HumanEndpoint",
+    "url": "https://humanendpoint.au",
+    "description": "Quote-first human execution for AI agents: business and supplier calls, stock and availability checks, physical verification, manual research, and human QA.",
+    "category": "ai-agents-and-memory",
+    "language": "TypeScript",
+    "provider": "HumanEndpoint",
+    "tags": [
+      "human-in-the-loop",
+      "agents",
+      "real-world",
+      "x402",
+      "mcp"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://humanendpoint.au/mcp"
+    }
+  },
+  {
     "name": "Pyrimid",
     "url": "https://github.com/pyrimid-ai/pyrimid",
     "description": "Onchain payment protocol for AI agents \u2014 sell any data product with x402, USDC on Base. Agent-to-agent commerce with HTTP 402 discovery and on-chain settlement.",
